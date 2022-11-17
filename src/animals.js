@@ -1,0 +1,1 @@
+export  const animals = ['bird', 'cat', 'cow', 'dog', 'gator', 'horse'];
